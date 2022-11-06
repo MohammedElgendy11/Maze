@@ -1,5 +1,21 @@
 # Maze
-A Maze game using unity3d (virtual reailty)
+
+
+This is a VR Maze, you have to find the key to win in this game .
+
+### Game Engine:
+Unity (2020.3.16 version)
+
+### Platform:
+PC (for HTC vive headset)
+
+### Game Characters:
+This is a single Player game
+How to play?
+-Once The game starts, you will find a Flashlight on a table.
+- You have to discover the maze and found the code number .
+- once you find the 4 numbers you need o find the lockbox to open it.
+-enter the 4 numbers and if they correct the lockbox will open .
 
 ![Screen Shot 2022-11-07 at 1 22 08 AM](https://user-images.githubusercontent.com/79119095/200201704-8b4636d4-a4f5-4c61-8ebf-489765e84825.png)
 
